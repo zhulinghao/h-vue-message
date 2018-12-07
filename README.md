@@ -14,7 +14,7 @@ Vue.use(HVueMessage);
 # options
 
 | params    | type      | value       | default   |
-|---------- |-------- |---------- |-------------  |-------- |
+|---------- |-------- |---------- |-------------  |
 | options   | object | —  |    —   |
 | options.type  | string | 'default', 'success', 'error', 'warning'  |   default   |
 | options.message  | string | —  |    '-'   |
