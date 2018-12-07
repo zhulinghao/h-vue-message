@@ -25,7 +25,7 @@ export default {
   name: 'Home',
   data () {
     return {
-        msg: 'Click Test',
+        msg: 'Click',
         content: '',
         type: 'success',
         timmer: 3000,
@@ -57,7 +57,7 @@ export default {
 }
 .click {
   width: 200px;
-  padding: 15px;
+  padding: 10px;
   font-size: 20px;
   background: #409EFF;
   color: #fff;
