@@ -1,3 +1,4 @@
+[Example](https://zhu8191553.github.io/h-vue-message/example/)
 # Install
 
 `npm i h-vue-message`
